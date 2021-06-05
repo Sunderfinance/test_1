@@ -1,26 +1,34 @@
 {
   "files": {
     "main.css": "./static/css/main.a799e0b9.chunk.css",
-    "main.js": "./static/js/main.020c14c0.chunk.js",
-    "main.js.map": "./static/js/main.020c14c0.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.f6bae8bf.js",
-    "runtime-main.js.map": "./static/js/runtime-main.f6bae8bf.js.map",
-    "static/js/2.8a9d3094.chunk.js": "./static/js/2.8a9d3094.chunk.js",
-    "static/js/2.8a9d3094.chunk.js.map": "./static/js/2.8a9d3094.chunk.js.map",
-    "static/js/3.e17f12a4.chunk.js": "./static/js/3.e17f12a4.chunk.js",
-    "static/js/3.e17f12a4.chunk.js.map": "./static/js/3.e17f12a4.chunk.js.map",
+    "main.js": "./static/js/main.f26c21f8.chunk.js",
+    "main.js.map": "./static/js/main.f26c21f8.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.5beabeda.js",
+    "runtime-main.js.map": "./static/js/runtime-main.5beabeda.js.map",
+    "static/css/2.53f60b0c.chunk.css": "./static/css/2.53f60b0c.chunk.css",
+    "static/js/2.78eb567b.chunk.js": "./static/js/2.78eb567b.chunk.js",
+    "static/js/2.78eb567b.chunk.js.map": "./static/js/2.78eb567b.chunk.js.map",
+    "static/js/3.0d947fe1.chunk.js": "./static/js/3.0d947fe1.chunk.js",
+    "static/js/3.0d947fe1.chunk.js.map": "./static/js/3.0d947fe1.chunk.js.map",
     "index.html": "./index.html",
+    "static/css/2.53f60b0c.chunk.css.map": "./static/css/2.53f60b0c.chunk.css.map",
     "static/css/main.a799e0b9.chunk.css.map": "./static/css/main.a799e0b9.chunk.css.map",
-    "static/js/2.8a9d3094.chunk.js.LICENSE.txt": "./static/js/2.8a9d3094.chunk.js.LICENSE.txt",
+    "static/js/2.78eb567b.chunk.js.LICENSE.txt": "./static/js/2.78eb567b.chunk.js.LICENSE.txt",
+    "static/media/earn_h2.f1d96600.png": "./static/media/earn_h2.f1d96600.png",
     "static/media/logo.d2250592.png": "./static/media/logo.d2250592.png",
     "static/media/map.0edf5465.png": "./static/media/map.0edf5465.png",
+    "static/media/mine_h2.89449c7c.png": "./static/media/mine_h2.89449c7c.png",
+    "static/media/sushi.11fafaa5.png": "./static/media/sushi.11fafaa5.png",
     "static/media/top.mov": "./static/media/top.eb14660b.mov",
-    "static/media/top_jgp.c0e9fa24.jpg": "./static/media/top_jgp.c0e9fa24.jpg"
+    "static/media/top_jgp.c0e9fa24.jpg": "./static/media/top_jgp.c0e9fa24.jpg",
+    "static/media/vote.e7a52262.png": "./static/media/vote.e7a52262.png",
+    "static/media/vote_h2.212a2dec.png": "./static/media/vote_h2.212a2dec.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.f6bae8bf.js",
-    "static/js/2.8a9d3094.chunk.js",
+    "static/js/runtime-main.5beabeda.js",
+    "static/css/2.53f60b0c.chunk.css",
+    "static/js/2.78eb567b.chunk.js",
     "static/css/main.a799e0b9.chunk.css",
-    "static/js/main.020c14c0.chunk.js"
+    "static/js/main.f26c21f8.chunk.js"
   ]
 }
